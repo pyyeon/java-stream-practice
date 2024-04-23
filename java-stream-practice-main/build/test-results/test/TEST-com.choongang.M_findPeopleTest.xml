@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.M_findPeopleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-04-23T06:34:18" hostname="BOOK-LCCUUB9T5H" time="0.085">
+  <properties/>
+  <testcase name="남성 회원 List [&quot;김코딩&quot;, &quot;최자바&quot;, &quot;김코츠&quot;]와 여성 회원 List [&quot;박해커&quot;, &quot;김유클&quot;, &quot;김코딩&quot;], &quot;김&quot;씨 성을 입력받은 경우, List [&quot;김유클&quot;, &quot;김코딩&quot;, &quot;김코츠&quot;]를 리턴해야 합니다" classname="com.choongang.M_findPeopleTest" time="0.073"/>
+  <testcase name="남성 회원 List [&quot;김코딩&quot;, &quot;최자바&quot;, &quot;김코츠&quot;]와 여성 회원 List [&quot;박해커&quot;, &quot;김유클&quot;, &quot;김코딩&quot;], &quot;?최&quot;씨 성을 입력받은 경우, List [&quot;김유클&quot;, &quot;최자바&quot;]를 리턴해야 합니다" classname="com.choongang.M_findPeopleTest" time="0.001"/>
+  <testcase name="남성 회원 List [&quot;김코드&quot;, &quot;최자바&quot;, &quot;이스프링&quot;]와 여성 회원 List [&quot;박해커&quot;, &quot;김유클&quot;, &quot;김코딩&quot;], &quot;정&quot;씨 성을 입력받은 경우, 비어있는 List []를 리턴해야 합니다" classname="com.choongang.M_findPeopleTest" time="0.001"/>
+  <testcase name="비어있는 남성 회원 List []와 비어있는 여성 회원 List [], &quot;김&quot;씨 성을 입력받은 경우, 비어있는 List []를 리턴해야 합니다" classname="com.choongang.M_findPeopleTest" time="0.001"/>
+  <testcase name="반복문(for, while)은 사용하지 말아야 합니다" classname="com.choongang.M_findPeopleTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
